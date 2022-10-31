@@ -1,2 +1,2 @@
 # prework-study-guide
-Bootcamp prework study guide for students.
+Front-End Development Bootcamp prework study guide for students.
